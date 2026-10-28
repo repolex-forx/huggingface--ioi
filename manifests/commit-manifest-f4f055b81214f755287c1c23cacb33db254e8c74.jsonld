@@ -42,9 +42,15 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 1689
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/f4f055b81214f755287c1c23cacb33db254e8c74/chunk-001.nq.gz",
+      "repolex:graphFileSize": 1668661
     }
   ],
-  "repolex:parseStatus": "metadata_complete",
+  "repolex:parseStatus": "ast_complete",
   "repolex:parsedAt": "2026-10-28T14:30:31.091542+00:00",
   "repolex:parserVersion": "0.1.10"
 }
